@@ -2,44 +2,44 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-06-19T22:15:20 IST" name="Default suite" finished-at="2021-06-19T22:16:29 IST" duration-ms="69322">
+  <suite started-at="2021-06-21T14:20:57 IST" name="Default suite" finished-at="2021-06-21T14:22:04 IST" duration-ms="67166">
     <groups>
     </groups>
-    <test started-at="2021-06-19T22:15:20 IST" name="Default test" finished-at="2021-06-19T22:16:29 IST" duration-ms="69322">
-      <class name="BitBar">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:15:20 IST" name="setUp" finished-at="2021-06-19T22:16:24 IST" duration-ms="63922" status="PASS">
+    <test started-at="2021-06-21T14:20:57 IST" name="Default test" finished-at="2021-06-21T14:22:04 IST" duration-ms="67166">
+      <class name="MyFootballLive">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:20:57 IST" name="setUp" finished-at="2021-06-21T14:21:59 IST" duration-ms="61814" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:24 IST" name="beforeMethod" finished-at="2021-06-19T22:16:24 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:21:59 IST" name="beforeMethod" finished-at="2021-06-21T14:21:59 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test_cricket_definition()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:24 IST" name="test_cricket_definition" finished-at="2021-06-19T22:16:27 IST" duration-ms="2603" status="PASS">
+        <test-method signature="test_cricket_definition()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:21:59 IST" name="test_cricket_definition" finished-at="2021-06-21T14:22:03 IST" duration-ms="4161" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_cricket_definition -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:27 IST" name="afterMethod" finished-at="2021-06-19T22:16:27 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:22:03 IST" name="afterMethod" finished-at="2021-06-21T14:22:03 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:27 IST" name="beforeMethod" finished-at="2021-06-19T22:16:27 IST" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:22:03 IST" name="beforeMethod" finished-at="2021-06-21T14:22:03 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="test_cricket_matches_type()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:27 IST" name="test_cricket_matches_type" finished-at="2021-06-19T22:16:29 IST" duration-ms="2158" status="PASS">
+        <test-method signature="test_cricket_matches_type()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:22:03 IST" name="test_cricket_matches_type" finished-at="2021-06-21T14:22:04 IST" duration-ms="614" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_cricket_matches_type -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:29 IST" name="afterMethod" finished-at="2021-06-19T22:16:29 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:22:04 IST" name="afterMethod" finished-at="2021-06-21T14:22:04 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:BitBar@57a78e3]" started-at="2021-06-19T22:16:29 IST" name="teardown" finished-at="2021-06-19T22:16:29 IST" duration-ms="599" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:MyFootballLive@57a78e3]" started-at="2021-06-21T14:22:04 IST" name="teardown" finished-at="2021-06-21T14:22:04 IST" duration-ms="529" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-      </class> <!-- BitBar -->
+      </class> <!-- MyFootballLive -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
